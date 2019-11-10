@@ -1,1 +1,1 @@
-Multipow versions of Celestia still need to be found,
+Multiple versions of Celestia still need to be found.
