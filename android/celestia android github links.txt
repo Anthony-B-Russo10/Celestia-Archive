@@ -1,0 +1,10 @@
+Celestia Android versions:
+1.0RC- https://github.com/levinli303/AndroidCelestia/releases/tag/1_0_rc
+1.0.1- https://github.com/levinli303/AndroidCelestia/releases/tag/1_0_1
+1.0.2- https://github.com/levinli303/AndroidCelestia/releases/tag/1_0_2
+1.0.3- https://github.com/levinli303/AndroidCelestia/releases/tag/1_0_3
+1.0.3.1- https://github.com/levinli303/AndroidCelestia/releases/tag/1_0_3_1
+1.0.4RC1- https://github.com/levinli303/AndroidCelestia/releases/tag/1_0_4_rc1
+1.0.5RC1- https://github.com/levinli303/AndroidCelestia/releases/tag/1_0_5_rc_1
+1.1RC1- https://github.com/levinli303/AndroidCelestia/releases/tag/1_1_rc1
+1.1.1Rc1- https://github.com/levinli303/AndroidCelestia/releases/tag/1_1_1_rc1
